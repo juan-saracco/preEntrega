@@ -1,0 +1,135 @@
+[
+  {
+    "id": 1,
+    "title": "Camiseta Argentina 2021",
+    "description": "Camiseta oficial de la selección argentina de fútbol",
+    "code": "ARG2021",
+    "price": 1500,
+    "status": true,
+    "stock": 20,
+    "category": "Camisetas de fútbol",
+    "thumbnails": [
+      "https://example.com/camiseta-argentina-2021.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Camiseta Boca Juniors",
+    "description": "Camiseta oficial del Club Atlético Boca Juniors",
+    "code": "BOCA2021",
+    "price": 2000,
+    "status": true,
+    "stock": 15,
+    "category": "Camisetas de fútbol",
+    "thumbnails": [
+      "https://example.com/camiseta-boca-juniors.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Camiseta River Plate",
+    "description": "Camiseta oficial del Club Atlético River Plate",
+    "code": "RIVER2021",
+    "price": 1900,
+    "status": true,
+    "stock": 18,
+    "category": "Camisetas de fútbol",
+    "thumbnails": [
+      "https://example.com/camiseta-river-plate.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Camiseta Independiente",
+    "description": "Camiseta oficial del Club Atlético Independiente",
+    "code": "IND2021",
+    "price": 1800,
+    "status": true,
+    "stock": 12,
+    "category": "Camisetas de fútbol",
+    "thumbnails": [
+      "https://example.com/camiseta-independiente.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Camiseta Racing Club",
+    "description": "Camiseta oficial del Racing Club",
+    "code": "RACING2021",
+    "price": 1700,
+    "status": true,
+    "stock": 14,
+    "category": "Camisetas de fútbol",
+    "thumbnails": [
+      "https://example.com/camiseta-racing-club.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Camiseta San Lorenzo",
+    "description": "Camiseta oficial del Club Atlético San Lorenzo de Almagro",
+    "code": "CASL2021",
+    "price": 1600,
+    "status": true,
+    "stock": 17,
+    "category": "Camisetas de fútbol",
+    "thumbnails": [
+      "https://example.com/camiseta-san-lorenzo.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Camiseta Estudiantes de La Plata",
+    "description": "Camiseta oficial del Club Estudiantes de La Plata",
+    "code": "EDLP2021",
+    "price": 1500,
+    "status": true,
+    "stock": 10,
+    "category": "Camisetas de fútbol",
+    "thumbnails": [
+      "https://example.com/camiseta-estudiantes.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Camiseta Gimnasia y Esgrima La Plata",
+    "description": "Camiseta oficial del Club de Gimnasia y Esgrima La Plata",
+    "code": "GYELP2021",
+    "price": 1400,
+    "status": true,
+    "stock": 9,
+    "category": "Camisetas de fútbol",
+    "thumbnails": [
+      "https://example.com/camiseta-gimnasia.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Camiseta Newell's Old Boys",
+    "description": "Camiseta oficial del Club Atlético Newell's Old Boys",
+    "code": "NEWELLS2021",
+    "price": 1300,
+    "status": true,
+    "stock": 7,
+    "category": "Camisetas de fútbol",
+    "thumbnails": [
+      "https://example.com/camiseta-newells.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Camiseta Rosario Central",
+    "description": "Camiseta oficial del Club Atlético Rosario Central",
+    "code": "ROSCENT2021",
+    "price": 1200,
+    "status": true,
+    "stock": 5,
+    "category": "Camisetas de fútbol",
+    "thumbnails": [
+      "https://example.com/camiseta-rosario-central.jpg"
+    ]
+  },
+  {
+    "id": "a76a5a85-adaa-4682-b76a-aa64323ad43d"
+  }
+]
